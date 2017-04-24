@@ -6,12 +6,17 @@ body {
 }
 #color {
   background-color: black;
-  width: 400px;
+  width: 550px;
   height: auto;
   float: left;
 }
 #color img {
-  margin-bottom: -4px;
+  margin-bottom: -10px;
+}
+#quote p {
+  margin-left: 200px;
+  color: green;
+
 }
 .title {
   clear: both;
@@ -39,7 +44,7 @@ body {
 
 #adobe {
   float: right;
-  margin-right: 200px;
+  margin-right: 100px;
   margin-top: -200px;
 }
 
