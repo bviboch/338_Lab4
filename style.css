@@ -7,20 +7,35 @@ body {
 #color {
   background-color: black;
   width: 400px;
-  height: 500px;
+  height: 400px;
 }
 #if {
   margin-left: -350px;
   margin-top: -95px;
   width: 1000px;
-  height: 1000px;
-
+  height: 800px;
 }
+
  h1 {
    color: red;
    font-size: 30px;
-
+   margin-left: 10px
  }
+
 hr {
   margin-top: -29px;
+  margin-left: 10px;
+}
+
+#paragraph {
+  margin-left: 10px;
+}
+
+strong {
+  margin-left: 10px;
+
+}
+
+ul {
+  margin-top: 0px;
 }
