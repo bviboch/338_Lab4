@@ -14,9 +14,8 @@ body {
   margin-bottom: -10px;
 }
 #quote p {
-  margin-left: 200px;
   color: green;
-
+  margin-left: -500px;
 }
 .title {
   clear: both;
