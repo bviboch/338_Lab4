@@ -7,26 +7,32 @@ body {
 #color {
   background-color: black;
   width: 400px;
-  height: 400px;
+  height: auto;
+  float: left;
 }
-#if {
-  margin-left: -350px;
-  margin-top: -95px;
-  width: 1000px;
-  height: 800px;
+#color img {
+  margin-bottom: -4px;
 }
-
- h1 {
+.title {
+  clear: both;
+}
+ .title h1 {
    color: red;
    font-size: 30px;
-   margin-left: 10px
+   margin-left: 10px;
  }
 
-hr {
+.title hr {
   margin-top: -29px;
   margin-left: 10px;
+  margin-right: 200px;
 }
 
+.website p {
+  color: gray;
+  font-size: 30px;
+  margin-left: 150px;
+}
 #paragraph {
   margin-left: 10px;
 }
@@ -34,7 +40,7 @@ hr {
 #adobe {
   float: right;
   margin-right: 200px;
-  margin-top: -120px;
+  margin-top: -200px;
 }
 
 strong {
