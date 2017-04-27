@@ -8,17 +8,22 @@ body {
   background-color: black;
   width: 550px;
   height: auto;
-  float: left;
 }
 #color img {
   margin-bottom: -10px;
 }
-#quote p {
-  color: green;
-  margin-left: -500px;
+#quote {
+  color: white;
+  position: relative;
+  top: -200px;
+  left: 250px;
+}
+#quote2 {
+  padding-left: 20px;
 }
 .title {
   clear: both;
+  margin-top: -70px;
 }
  .title h1 {
    color: red;
@@ -39,6 +44,7 @@ body {
 }
 #paragraph {
   margin-left: 10px;
+  width: 350px;
 }
 
 #adobe {
